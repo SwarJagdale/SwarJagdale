@@ -1,35 +1,34 @@
 <h1 align="center">hey there 👋 i'm Swar</h1>
 <p align="center"><em>I build with models, data, and just enough infra to make it all run.</em></p>
 
-<p >
-🧠 AI/ML is my playground — whether it's contrastive learning, LLMs, or edge vision with Jetson & LiDAR.<br>
-⚡ I chase ideas that mix intelligence with scale: agentic systems, real-time pipelines, and knowledge-driven automation.<br>
+🧠 **AI/ML is my playground** — whether it's contrastive learning, LLMs, or edge vision with Jetson & LiDAR.  
+⚡ I chase ideas that mix intelligence with scale: agentic systems, real-time pipelines, and knowledge-driven automation.  
 🛠️ Occasionally touch full-stack when the model deserves a frontend (or an API).
-</p>
 
-<p >
-🚩 Hackathon scoreboard:<br>
-🏆 <b>Smart India Hackathon 2024</b> – National Winner (AI for Education)<br>
-🥉 <b>UBS Hackathon 2025</b> – Second Runner-up (Fintech automation)<br>
-🥉 <b>Google DSC HackNiche 2.0</b> – Second Runner-up (Retail intelligence)<br>
-🥇 <b>Synergy</b> – Winner (Healthcare analytics)<br>
-🥉 <b>Code4AI</b> – Third Place (NLP + CV hybrid system)<br>
-🥉 <b>Recursion</b> – Third Place (Data pipelines and forecasting)<br>
-🥈 <b>Technovate</b> – Second Place (Realtime dashboards + insights)<br>
-</p>
+---
 
-<p >
-🧪 What I’ve been hacking on lately:<br>
- <b>ClaRiTy</b>: Multimodal contrastive learning for FTIR + Raman spectra — 98.2% accuracy, zero overkill.<br>
- <b>TransformoDocs</b>: AI-native doc infra with OCR, hybrid search, NER & versioning<br>
- <b>RetailInsightPro</b>: LLM meets Computer Vision to rethink product placement logic<br>
-</p>
+🚩 **Hackathon scoreboard:**  
+🏆 **Smart India Hackathon 2024** – National Winner (AI for Education)  
+🥉 **UBS Hackathon 2025** – Second Runner-up (Fintech automation)  
+🥉 **Google DSC HackNiche 2.0** – Second Runner-up (Retail intelligence)  
+🥇 **Synergy** – Winner (Healthcare analytics)  
+🥉 **Code4AI** – Third Place (NLP + CV hybrid system)  
+🥉 **Recursion** – Third Place (Data pipelines and forecasting)  
+🥈 **Technovate** – Second Place (Realtime dashboards + insights)
 
-<p >
-🎓 Final-year CSE (Data Science) @ D.J. Sanghvi<br>
-👨‍💻 Vice Chair @ Society for Data Science | Hosted 1300+ devs across India<br>
+---
+
+🧪 **What I’ve been hacking on lately:**  
+- **ClaRiTy**: Multimodal contrastive learning for FTIR + Raman spectra — 98.2% accuracy, zero overkill  
+- **TransformoDocs**: AI-native doc infra with OCR, hybrid search, NER & versioning  
+- **RetailInsightPro**: LLM meets Computer Vision to rethink product placement logic  
+
+---
+
+🎓 Final-year CSE (Data Science) @ D.J. Sanghvi  
+👨‍💻 Vice Chair @ Society for Data Science | Hosted 1300+ devs across India  
 🌐 3★ on CodeChef (for the kicks, not the karma)
-</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SwarJagdale/) 
