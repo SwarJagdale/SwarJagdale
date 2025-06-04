@@ -20,9 +20,9 @@
 
 <p align="center">
 🧪 What I’ve been hacking on lately:<br>
-- <b>ClaRiTy</b>: Multimodal contrastive learning for FTIR + Raman spectra — 98.2% accuracy, zero overkill.<br>
-- <b>TransformoDocs</b>: AI-native doc infra with OCR, hybrid search, NER & versioning<br>
-- <b>RetailInsightPro</b>: LLM meets Computer Vision to rethink product placement logic<br>
+ <b>ClaRiTy</b>: Multimodal contrastive learning for FTIR + Raman spectra — 98.2% accuracy, zero overkill.<br>
+ <b>TransformoDocs</b>: AI-native doc infra with OCR, hybrid search, NER & versioning<br>
+ <b>RetailInsightPro</b>: LLM meets Computer Vision to rethink product placement logic<br>
 </p>
 
 <p align="center">
