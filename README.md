@@ -1,13 +1,13 @@
 <h1 align="center">hey there 👋 i'm Swar</h1>
 <p align="center"><em>I build with models, data, and just enough infra to make it all run.</em></p>
 
-<p align="center">
+<p >
 🧠 AI/ML is my playground — whether it's contrastive learning, LLMs, or edge vision with Jetson & LiDAR.<br>
 ⚡ I chase ideas that mix intelligence with scale: agentic systems, real-time pipelines, and knowledge-driven automation.<br>
 🛠️ Occasionally touch full-stack when the model deserves a frontend (or an API).
 </p>
 
-<p align="center">
+<p >
 🚩 Hackathon scoreboard:<br>
 🏆 <b>Smart India Hackathon 2024</b> – National Winner (AI for Education)<br>
 🥉 <b>UBS Hackathon 2025</b> – Second Runner-up (Fintech automation)<br>
@@ -18,14 +18,14 @@
 🥈 <b>Technovate</b> – Second Place (Realtime dashboards + insights)<br>
 </p>
 
-<p align="center">
+<p >
 🧪 What I’ve been hacking on lately:<br>
  <b>ClaRiTy</b>: Multimodal contrastive learning for FTIR + Raman spectra — 98.2% accuracy, zero overkill.<br>
  <b>TransformoDocs</b>: AI-native doc infra with OCR, hybrid search, NER & versioning<br>
  <b>RetailInsightPro</b>: LLM meets Computer Vision to rethink product placement logic<br>
 </p>
 
-<p align="center">
+<p >
 🎓 Final-year CSE (Data Science) @ D.J. Sanghvi<br>
 👨‍💻 Vice Chair @ Society for Data Science | Hosted 1300+ devs across India<br>
 🌐 3★ on CodeChef (for the kicks, not the karma)
